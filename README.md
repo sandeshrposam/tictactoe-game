@@ -1,10 +1,11 @@
 This is Next js Project for Tic Tac Toe game
 
 First install node modules after cloning repository
+```bash
 npm i
 #or
 npm install
-
+```
 ## Getting Started
 
 First, run the development server:
