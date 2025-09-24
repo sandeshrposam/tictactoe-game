@@ -1,4 +1,9 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is Next js Project for Tic Tac Toe game
+
+First install node modules after cloning repository
+npm i
+#or
+npm install
 
 ## Getting Started
 
